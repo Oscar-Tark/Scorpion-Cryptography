@@ -1,0 +1,12 @@
+/home/ferret/GIT/Scorpion-Cryptography/bin/Debug/net6.0/Scorpion_Cryptography.deps.json
+/home/ferret/GIT/Scorpion-Cryptography/bin/Debug/net6.0/Scorpion_Cryptography.dll
+/home/ferret/GIT/Scorpion-Cryptography/bin/Debug/net6.0/ref/Scorpion_Cryptography.dll
+/home/ferret/GIT/Scorpion-Cryptography/bin/Debug/net6.0/Scorpion_Cryptography.pdb
+/home/ferret/GIT/Scorpion-Cryptography/obj/Debug/net6.0/Scorpion_Cryptography.csproj.AssemblyReference.cache
+/home/ferret/GIT/Scorpion-Cryptography/obj/Debug/net6.0/Scorpion_Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferret/GIT/Scorpion-Cryptography/obj/Debug/net6.0/Scorpion_Cryptography.AssemblyInfoInputs.cache
+/home/ferret/GIT/Scorpion-Cryptography/obj/Debug/net6.0/Scorpion_Cryptography.AssemblyInfo.cs
+/home/ferret/GIT/Scorpion-Cryptography/obj/Debug/net6.0/Scorpion_Cryptography.csproj.CoreCompileInputs.cache
+/home/ferret/GIT/Scorpion-Cryptography/obj/Debug/net6.0/Scorpion_Cryptography.dll
+/home/ferret/GIT/Scorpion-Cryptography/obj/Debug/net6.0/ref/Scorpion_Cryptography.dll
+/home/ferret/GIT/Scorpion-Cryptography/obj/Debug/net6.0/Scorpion_Cryptography.pdb

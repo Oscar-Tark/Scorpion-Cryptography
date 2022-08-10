@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wODgKuM0pd9THdVt0SmifNKF1DWksw1XeLe9jFiMKBl10aavHUkAzW6qXTzDo1vF6cz+M3iI16/Tn/kv4f42zA==",
+  "success": true,
+  "projectFilePath": "/home/ferret/GIT/Scorpion-Cryptography/Scorpion_Cryptography.csproj",
+  "expectedPackageFiles": [
+    "/home/ferret/.nuget/packages/capgemini.cauldron.cryptography/3.2.3/capgemini.cauldron.cryptography.3.2.3.nupkg.sha512",
+    "/home/ferret/.nuget/packages/capgemini.cauldron.randomizer/3.2.3/capgemini.cauldron.randomizer.3.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
