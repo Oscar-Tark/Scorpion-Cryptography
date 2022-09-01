@@ -1,0 +1,12 @@
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/bin/Debug/net6.0/Squirrel-Cryptography.deps.json
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/bin/Debug/net6.0/Squirrel-Cryptography.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/bin/Debug/net6.0/ref/Squirrel-Cryptography.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/bin/Debug/net6.0/Squirrel-Cryptography.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/obj/Debug/net6.0/Squirrel-Cryptography.csproj.AssemblyReference.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/obj/Debug/net6.0/Squirrel-Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/obj/Debug/net6.0/Squirrel-Cryptography.AssemblyInfoInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/obj/Debug/net6.0/Squirrel-Cryptography.AssemblyInfo.cs
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/obj/Debug/net6.0/Squirrel-Cryptography.csproj.CoreCompileInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/obj/Debug/net6.0/Squirrel-Cryptography.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/obj/Debug/net6.0/ref/Squirrel-Cryptography.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/obj/Debug/net6.0/Squirrel-Cryptography.pdb

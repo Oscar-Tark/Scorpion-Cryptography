@@ -29,19 +29,6 @@ namespace Scorpion.Crypto
 {
     public partial class Cryptographer
     {
-        public byte[] AES_ENCRYPT(SecureString internal_user_password, object block)
-        {
-            return Cauldron.Cryptography.Aes.Encrypt(internal_user_password, To_Byte(block)); 
-        }
-
-        public object AES_DECRYPT(SecureString internal_user_password, byte[] block)
-        {
-            return To_Object(Cauldron.Cryptography.Aes.Decrypt(internal_user_password, block));
-        }
-    }
-
-    public partial class Cryptographer
-    {
         /*Objects: These objects must be contained only in this file, any replications in other files can give away any encryption data*/
         public string Array_To_String(ArrayList obj)
         {
@@ -66,12 +53,15 @@ namespace Scorpion.Crypto
             return al_ret;
         }
 
+        //DO NOT USE! SECURITY RISK: https://docs.microsoft.com/en-us/dotnet/core/compatibility/core-libraries/5.0/binaryformatter-serialization-obsolete
         [Obsolete]
         public byte[] To_Byte(object obj)
         {
-            MemoryStream ms = new MemoryStream();
-            new BinaryFormatter().Serialize(ms, obj);
-            return ms.ToArray();
+            using(MemoryStream ms = new MemoryStream())
+            {
+                new BinaryFormatter().Serialize(ms, obj);
+                return ms.ToArray();
+            }
         }
 
         public string To_String(byte[] byt)
@@ -79,6 +69,7 @@ namespace Scorpion.Crypto
             return Encoding.Default.GetString(byt);
         }
 
+        //DO NOT USE! SECURITY RISK: https://docs.microsoft.com/en-us/dotnet/core/compatibility/core-libraries/5.0/binaryformatter-serialization-obsolete
         [Obsolete]
         public object To_Object(byte[] byt)
         {

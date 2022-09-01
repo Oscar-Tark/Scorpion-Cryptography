@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ferret/GIT/Scorpion-Cryptography/Scorpion_Cryptography.csproj",
-      "projectName": "Scorpion_Cryptography",
-      "projectPath": "/home/ferret/GIT/Scorpion-Cryptography/Scorpion_Cryptography.csproj",
+      "projectUniqueName": "/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/Squirrel-Cryptography.csproj",
+      "projectName": "Squirrel-Cryptography",
+      "projectPath": "/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/Squirrel-Cryptography.csproj",
       "packagesPath": "/home/ferret/.nuget/packages/",
-      "outputPath": "/home/ferret/GIT/Scorpion-Cryptography/obj/",
+      "outputPath": "/home/ferret/GIT/Squirrel_Project/Squirrel-Cryptography/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ferret/.nuget/NuGet/NuGet.Config"
